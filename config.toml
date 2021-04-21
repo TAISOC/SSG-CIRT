@@ -1,0 +1,30 @@
+baseurl = "https://taisoc-cirt.co.ke"
+languageCode = "en-us"
+title = "TAI SOC CIRT"
+theme = "hugo-cards"
+paginate = 6
+
+[params]
+  builtBy = "TAI SOC"
+  defaultImage = "tai.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = ""
+  github = ""
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  custom_css = ["css/custom.css"]
+
+  [params.copyright]
+     name = "TAI SOC"
+     link = "https://tai-soc.co.ke"
+

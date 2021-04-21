@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TAI SOC CIRT</title>
+    <link>https://taisoc-cirt.co.ke/</link>
+    <description>Recent content on TAI SOC CIRT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 10:51:47 +0530</lastBuildDate><atom:link href="https://taisoc-cirt.co.ke/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2020-10145 - Adobe ColdFusion</title>
+      <link>https://taisoc-cirt.co.ke/posts/cve-2020-10145/</link>
+      <pubDate>Tue, 02 Feb 2021 10:51:47 +0530</pubDate>
+      
+      <guid>https://taisoc-cirt.co.ke/posts/cve-2020-10145/</guid>
+      <description>Name of Data Breach/Vulnerability: Adobe ColdFusion is vulnerable to privilege escalation due to weak ACLs
+TAI SOC Advisory Number/ID: TAISOC/1/02/02/2021
+Date Issued: 2nd February, 2021
+Overview: Adobe ColdFusion fails to properly set ACLs, which can allow an unprivileged Windows user to be able to run arbitrary code with SYSTEM privileges.
+Description: The Adobe ColdFusion installer fails to set a secure access-control list (ACL) on the default installation directory, such as C:\ColdFusion2021.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://taisoc-cirt.co.ke/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taisoc-cirt.co.ke/pages/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://taisoc-cirt.co.ke/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taisoc-cirt.co.ke/pages/contact/</guid>
+      <description>Visit TAI SOC</description>
+    </item>
+    
+  </channel>
+</rss>
